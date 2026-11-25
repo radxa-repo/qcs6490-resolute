@@ -1,6 +1,7 @@
 # qcs6490-resolute
 
 [![Update packages](https://github.com/radxa-repo/qcs6490-resolute/actions/workflows/update.yaml/badge.svg)](https://github.com/radxa-repo/qcs6490-resolute/actions/workflows/update.yaml)
+[![Publish packages](https://github.com/radxa-repo/qcs6490-resolute/actions/workflows/build.yaml/badge.svg)](https://github.com/radxa-repo/qcs6490-resolute/actions/workflows/build.yaml)
 
 ## Content
 
